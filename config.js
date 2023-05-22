@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
-    let locale = 'id'
+    let locale = 'ma'
     // d.getTimeZoneOffset()
     // Offset -420 is 18.00
     // Offset    0 is  0.00
@@ -47,9 +47,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = 'https://instagram.com/noureddine_ouafy' //Link Instagrammu
+global.sgh = 'https://github.com/noureddineouafy' //Link Githubmu
+global.sgc = 'instagram.com/noureddine_ouafy'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
